@@ -32,5 +32,6 @@
 - KSTQB SW 테스팅 Basic Level
 - 정보보안산업기사 필기 합격
 
-  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?username=hackk)](https://velog.io/@hackk/posts)
+
 
