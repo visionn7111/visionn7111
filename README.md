@@ -1,6 +1,7 @@
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/hackk?theme=dark&posts=4)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hackk)](https://velog.io/@hackk/IT-운영-리눅스에서-시스템-모니터링-도구-10가지-다-사용해보기)
+---
+
 
 ## Work Type 👋
 **클라우드 엔지니어** / **퍼블릭 클라우드 보안구축** / **모의해킹**
