@@ -1,3 +1,5 @@
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/hackk?theme=dark&posts=4)
+
 ## Work Type 👋
 **클라우드 엔지니어** / **퍼블릭 클라우드 보안구축** / **모의해킹**
 
@@ -32,6 +34,6 @@
 - KSTQB SW 테스팅 Basic Level
 - 정보보안산업기사 필기 합격
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?username=hackk)](https://velog.io/@hackk/posts)
+
 
 
